@@ -7,7 +7,7 @@ A free music and video player for Windows that brings back the look and feel of 
 ## Download
 
 1. Open the [latest release](https://github.com/hanulso78/jj-audio-release/releases/latest) and download
-   `JJ-Audio-<version>-win64.zip`.
+   `jj-audio-<version>-win64.zip`.
 2. Unzip it into any folder you like (for example `C:\JJ-Audio`).
 3. Run `jj-audio.exe`.
 
